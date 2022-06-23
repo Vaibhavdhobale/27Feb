@@ -41,4 +41,8 @@ zerodhaLoginPage.clickOnSignUp();
  public void close() {
  driver.quit();
 }
+@Test
+public void test() {
+	System.out.println("New test added for git purpose");
+}
 }
